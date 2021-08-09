@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function () {
     
     dotColor: '#0392cf',
     lineColor: '#ff0938',
-    density:10000 - 1000,
+    density:10000 - 1500,
     // proximity:105,
     // particleRadius:2,
     // Dotsize:15,

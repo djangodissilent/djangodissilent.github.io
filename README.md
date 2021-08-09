@@ -1,6 +1,6 @@
 # Portofolio
 
-[**Personal portofolio with contacts**](https://https://djangodissilent.github.io)
+[**Personal portofolio with contacts**](https://djangodissilent.github.io)
 
 ![Alt text](assets/example-light.png "Title")
 

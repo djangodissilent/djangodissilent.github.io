@@ -6,11 +6,11 @@ document.addEventListener('DOMContentLoaded', function () {
     
     dotColor: '#0392cf',
     lineColor: '#ff0938',
-    density:10000 - 1500,
+    density:10000 - 0,
     // proximity:105,
     // particleRadius:2,
     // Dotsize:15,
-    parallax:0,
+    // parallax:0,
     
   });
   var intro = document.getElementById('intro');

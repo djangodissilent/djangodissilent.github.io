@@ -12,7 +12,7 @@ var socialtags = [{
 }
     , {
     img: "img/resumeIcon.png",
-    link: "resume/resume.pdf"
+    link: "resume/ahmed_amien_resume.pdf"
 
 }
 ]
